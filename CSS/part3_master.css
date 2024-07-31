@@ -1,0 +1,29 @@
+.div{
+    color: red;
+} 
+
+.secondDiv{
+    color: red;
+}
+
+#singledoubt{
+    color: green;
+    text-decoration: line-through;
+}
+
+*{
+    color: black;
+} 
+
+h3 + ul{
+    border: 4px dotted purple;
+}
+
+li a{
+    color: red;
+}
+
+li a[href="www.npr.org"]{
+    color: blue;
+    border: 5px solid orange;
+}

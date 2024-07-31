@@ -1,0 +1,23 @@
+/*selected tag{
+    property:value;
+}*/
+
+body{
+    background-color: https://www.pexels.com/photo/landscape-photography-of-trees-on-shoreline-457882/;
+}
+
+div{
+    background-color: aqua;
+    border-color: aliceblue;
+    border-width: 5px;
+    border-style: dotted;
+}
+
+p{
+    color: greenyellow;
+}
+
+span{
+    background: red;
+    color: black;
+}
